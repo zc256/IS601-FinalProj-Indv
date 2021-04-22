@@ -3,6 +3,9 @@
 ## GET Request
 ![GET_Request](Screenshots_FinalProj/GET.jpg)
 
+## GET Request (Specific city)
+![GET_Request](Screenshots_FinalProj/GET-2.jpg)
+
 ## POST Request
 ![POST_Request1](Screenshots_FinalProj/POST-1.jpg)
 
