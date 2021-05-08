@@ -15,6 +15,7 @@ POST request is inserting the city of "Princeton", and is at the end of the JSON
 
 ## PUT Request
 ![PUT_Request1](Screenshots_FinalProj/PUT-1.jpg)
+Changed "Italy" to "Italia"
 
 ## PUT Request (Confirmation)
 ![PUT_Request2](Screenshots_FinalProj/PUT-2.jpg)
