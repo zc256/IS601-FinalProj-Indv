@@ -8,6 +8,7 @@
 
 ## POST Request
 ![POST_Request1](Screenshots_FinalProj/POST-1.jpg)
+POST request is inserting the city of "Princeton", and is at the end of the JSON file.
 
 ## POST Request (Confirmation)
 ![POST_Request2](Screenshots_FinalProj/POST-2.jpg)
