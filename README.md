@@ -22,6 +22,7 @@ Changed "Italy" to "Italia"
 
 ## DELETE Request
 ![DELETE_Request1](Screenshots_FinalProj/DELETE-1.jpg)
+Deleted city "Louisville".
 
 ## DELETE Request (Confirmation)
 ![DELETE_Request2](Screenshots_FinalProj/DELETE-2.jpg)
