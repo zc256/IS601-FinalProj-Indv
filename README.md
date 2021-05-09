@@ -39,8 +39,8 @@ Deleted city "Louisville".
 ![GET_Player_Request](Screenshots_FinalProj/playersGetSpecific.jpg)
 
 ### POST Request
-![POST_Player_Request1](Screenshots_FinalProj/postPlayer.jpg)
-POST request is inserting the city of "Princeton", and is at the end of the JSON file.
+![POST_Player_Request1](Screenshots_FinalProj/postPlayerFix.jpg)
+POST request is inserting the player, "Test Player".
 
 ### POST Request (Confirmation)
 ![POST_Player_Request2](Screenshots_FinalProj/postPlayer2.jpg)
